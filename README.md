@@ -1,5 +1,7 @@
 # nodeJS - notes from the lecture
 
+next notes-> branch nodeJSModulSystem
+
 ## Андрей Мелихов ( devSchacht ) 
 
 original resource:
